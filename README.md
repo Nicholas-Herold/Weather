@@ -8,3 +8,8 @@
 
     -open weather current api
     -open weather allin one API
+
+
+links
+    https://nicholas-herold.github.io/Weather/
+    
